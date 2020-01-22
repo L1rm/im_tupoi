@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c79ded9-ffda-47ec-9c01-a46c42199ab2" name="Default Changelist" comment="add map">
-      <change afterPath="$PROJECT_DIR$/png/map.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -136,7 +136,7 @@
       <updated>1579438392397</updated>
       <workItem from="1579438393603" duration="3314000" />
       <workItem from="1579447724971" duration="4119000" />
-      <workItem from="1579717183731" duration="1557000" />
+      <workItem from="1579717183731" duration="1847000" />
     </task>
     <task id="LOCAL-00001" summary="add map">
       <created>1579718352113</created>
@@ -149,7 +149,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8990000" />
+    <option name="totallyTimeSpent" value="9280000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -163,7 +163,7 @@
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4993395" visible="true" weight="0.13568376" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4993395" visible="true" weight="0.13568376" />
       <window_info id="Structure" order="1" sideWeight="0.5006605" side_tool="true" weight="0.09325606" />
       <window_info id="Favorites" order="2" sideWeight="0.5006605" side_tool="true" weight="0.09325606" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32932165" />
@@ -175,7 +175,7 @@
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.17177244" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32822758" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32822758" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="TODO" order="11" weight="0.32932165" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
